@@ -1,0 +1,22 @@
+Pendukung/Program/application/cache/views/*
+!Pendukung/Program/application/cache/views/index.html
+
+Pendukung/Program/application/logs/*
+!Pendukung/Program/application/logs/index.html
+
+!Pendukung/Program/application/*/.htaccess
+
+Pendukung/Program/application/vendor
+
+Pendukung/Program/composer.lock
+
+Pendukung/Program/uploads/*
+!Pendukung/Program/uploads/.gitignore
+!Pendukung/Program/uploads/index.html
+
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+.vscode
